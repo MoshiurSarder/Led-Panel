@@ -1,0 +1,16 @@
+.L1IG-0750100000000 :1 ;Infrared Emitters - High Power Broadrange IR LED 600 - 1050nm
+L1IG0750100000000
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN L1IG-0750100000000
+~!Mouser Part Number (997-L1IG075010000)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Lumileds/L1IG-0750100000000?qs=UXgszm6BlbFsaqyaTO4YIQ%3D%3D)
+~!Manufacturer_Name (Lumileds)
+~!Manufacturer_Part_Number (L1IG-0750100000000)
+~!Link Datasheet (https://www.lumileds.com/uploads/838/DS263-luxeon-ir-onyx-datasheet-pdf)
+~!Height (-)
+~!3D_Model (L1IG-0750100000000)
+L1IG-0750100000000
+1.1!U 2.1!U 

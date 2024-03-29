@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'L1IG_0750100000000'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Lumileds", "L1IG-0750100000000" (!) = "", "L1IG0750100000000", "Other", "997-L1IG075010000", "https://www.mouser.co.uk/ProductDetail/Lumileds/L1IG-0750100000000?qs=UXgszm6BlbFsaqyaTO4YIQ%3D%3D", "Infrared Emitters - High Power Broadrange IR LED 600 - 1050nm", "https://www.lumileds.com/uploads/838/DS263-luxeon-ir-onyx-datasheet-pdf"
+END_PART
+
+END.
