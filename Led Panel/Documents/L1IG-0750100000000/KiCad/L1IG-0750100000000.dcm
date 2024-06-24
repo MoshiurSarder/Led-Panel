@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP L1IG-0750100000000
-D Infrared Emitters - High Power Broadrange IR LED 600 - 1050nm
-K
-F https://www.lumileds.com/uploads/838/DS263-luxeon-ir-onyx-datasheet-pdf
-$ENDCMP
-#
-#End Doc Library
